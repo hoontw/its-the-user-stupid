@@ -1,0 +1,16 @@
+.flip-clock-label {
+  display: none;
+}
+
+.timer.flip-clock-wrapper {
+  width: 480px;
+  margin: 0 auto 35px;
+}
+
+button.go {
+  display: block;
+  width: 3.25em;
+  margin: 35px auto 0;
+  font-size: 1em;
+  font-family: inherit;
+}
